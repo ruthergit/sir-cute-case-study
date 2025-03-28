@@ -4,7 +4,7 @@ import Button from "../components/YellowBtn";
 
 const Hero = () => {
   return (
-    <div className="">
+    <div>
       <Header />
       <Navbar />
       <div className="h-[79vh] relative font-nunitoSans text-white">
