@@ -3,7 +3,7 @@ import Button from "../components/GreenBtn";
 
 const SecondPage = () => {
     return(
-    <div className="h-screen">
+    <div className="h-screen font-nunitoSans">
         <Navbar/>
        
         <div className="grid h-full place-self-center text-center">
