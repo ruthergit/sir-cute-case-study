@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <nav className="w-full font-nunitoSans px-4 sm:px-72 py-2 flex flex-col sm:flex-row justify-between items-center bg-white fixed">
+    <nav className="w-full font-nunitoSans px-4 sm:px-72 py-2 flex flex-col sm:flex-row justify-between items-center bg-white">
       {/* Top Row: Logo + Hamburger on Mobile */}
       <div className="w-full flex justify-between items-center sm:w-auto">
         <img className="w-[150px] sm:w-[190px]" src="/pnc-header.png" alt="PNC Logo" />
